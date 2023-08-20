@@ -1,5 +1,5 @@
 {
-  "name": "openai-api",
+  "name": "openai-api-gater",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
